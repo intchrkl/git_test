@@ -1,3 +1,3 @@
 # git_test
-Testing GitHub repos\n
+Testing GitHub repos
 Hello World!
